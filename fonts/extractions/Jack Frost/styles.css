@@ -1,0 +1,8 @@
+
+@font-face {
+  font-family: 'JackFrost';
+  src: url('JackFrost.eot?#iefix') format('embedded-opentype'),  url('JackFrost.otf')  format('opentype'),
+	     url('JackFrost.woff') format('woff'), url('JackFrost.ttf')  format('truetype'), url('JackFrost.svg#JackFrost') format('svg');
+  font-weight: normal;
+  font-style: normal;
+}
